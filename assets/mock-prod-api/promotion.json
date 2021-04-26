@@ -7,5 +7,10 @@
   "controlConfiguration": {
     "name": "text",
     "email": "email"
-  }
+  },
+  "controlConfigurationValues": {
+    "name": "",
+    "email": ""
+  },
+  "isRegistered": false
 }
